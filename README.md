@@ -72,9 +72,10 @@
 <h2 style="color:#00d4ff; font-family:Segoe UI">📬 Contact Me</h2>
 
 <ul>
+  <li>🐙 Portfolio: <a href="https://github.com/himanshu-kushwaha-2004](https://my-portfolio-9jji.onrender.com">Live Site</a></li>
   <li>📧 Email: <a href="mailto:hk5652990@gmail.com">hk5652990@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://linkedin.com/in/himanshu-kushwaha">himanshu-kushwaha</a></li>
-  <li>🐙 GitHub: <a href="https://github.com/himanshu-kushwaha-2004">himanshu-kushwaha-2004</a></li>
+  <li>🐙 GitHub: <a href="[https://github.com/himanshu-kushwaha-2004](https://github.com/HIMANSHU-KUSHWAHA-2004)">himanshu-kushwaha-2004</a></li>
 </ul>
 
 ---
