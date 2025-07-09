@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150x150/4a90e2/ffffff?text=HK" width="150" style="border-radius: 50%;" alt="Himanshu Kushwaha" />
+  <img src="Profile-DuX61viU.jpeg" width="150" style="border-radius: 50%;" alt="Himanshu Kushwaha" />
 </p>
 
 <h1 align="center">
