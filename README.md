@@ -23,7 +23,7 @@
 <ul style="list-style-type:none; padding-left:0;">
   <li><b style="color:#feca57">🐍 Python</b> — Pandas, NumPy, Matplotlib</li>
   <li><b style="color:#00cec9">📊 Data Visualization</b> — Seaborn, Power BI, Tableau</li>
-  <li><b style="color:#fd79a8">🧠 Machine Learning</b> — Scikit-learn, TensorFlow, PyTorch</li>
+  <li><b style="color:#fd79a8">🧠 Machine Learning</b> — Scikit-learn</li>
   <li><b style="color:#a29bfe">💾 Databases</b> — SQL, MySQL</li>
   <li><b style="color:#fab1a0">☁️ Cloud</b> — AWS (Basics)</li>
 </ul>
@@ -35,8 +35,6 @@
 <ul>
   <li><b>LeetCode:</b> Problem-solving enthusiast 💡</li>
   <li><b>CodeChef:</b> Competitive mindset ⚔️</li>
-  <li><b>Codeforces:</b> Contest regular 🎯</li>
-  <li><b>HackerRank:</b> DSA & SQL badge collector 🏅</li>
 </ul>
 
 ---
