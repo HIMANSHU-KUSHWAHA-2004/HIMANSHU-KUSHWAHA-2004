@@ -72,7 +72,7 @@
 <ul>
   <li>🐙 Portfolio: <a href="https://my-portfolio-9jji.onrender.com">Live Demo</a></li>
   <li>📧 Email: <a href="mailto:hk5652990@gmail.com">hk5652990@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://linkedin.com/in/himanshu-kushwaha">himanshu-kushwaha</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/himanshu-kushwaha-49b360293">himanshu-kushwaha</a></li>
   <li>🐙 GitHub: <a href="https://github.com/HIMANSHU-KUSHWAHA-2004">himanshu-kushwaha-2004</a></li>
 </ul>
 
